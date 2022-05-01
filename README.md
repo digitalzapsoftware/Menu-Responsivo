@@ -1,2 +1,2 @@
 # Menu-Responsivo
- Menu Responsivo para esta ultilizando em projeto
+ Menu Responsivo para usar em projeto
